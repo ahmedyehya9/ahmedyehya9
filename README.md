@@ -8,4 +8,4 @@
 
 
 ### My LinkedIn Profile :
-[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Hussein-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ahmed-yehya-0baa9424b)
+[![LinkedIn](https://img.shields.io/badge/-Ahmed%20Yehya-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ahmed-yehya-0baa9424b)
