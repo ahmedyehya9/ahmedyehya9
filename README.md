@@ -4,7 +4,6 @@
 🎓 Undergraduate student in Communications and Computerd Engineering at Benha University.  
 💡 Interested in Digital IC Design and Verification.
 
----
 
 
 ## 📫 Contact
