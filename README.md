@@ -8,6 +8,5 @@
 
 
 ## 📫 Contact
-- Email: ahmedyahya832002@gmail.com  
-- LinkedIn: www.linkedin.com/in/ahmed-yehya-0baa9424b
-
+📧 Email: ahmedyahya832002@gmail.com  
+📫 LinkedIn: [Ahmed Yehya](www.linkedin.com/in/ahmed-yehya-0baa9424b)
